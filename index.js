@@ -1,4 +1,4 @@
-// index.js
+
 const API_KEY = 'AXkzYzb55gG0vDBwzHptp7yDoKwXGB9j'; 
 
 async function getImage(query) {
